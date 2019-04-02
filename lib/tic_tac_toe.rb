@@ -5,7 +5,7 @@ def display_board(board)
     elsif i>0
       print "|"
     end
-    print " #{cell} " 
+    print " #{cell} "
   end
   print "\n"
 end
